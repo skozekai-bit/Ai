@@ -1,4 +1,4 @@
-import numpy as np
+⅞import numpy as np
 
 # 1. THE DATA: Input (x) and the 'True' Answer (y)
 # We want the AI to figure out that y = 2 * x
